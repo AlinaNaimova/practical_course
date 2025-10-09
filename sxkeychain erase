@@ -1,0 +1,17 @@
+credential.helper=osxkeychain
+init.defaultbranch=main
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+user.name=Alina N
+user.email=my_work_space@bk.ru
+pull.ff=only
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+core.ignorecase=true
+core.precomposeunicode=true
+remote.origin.url=https://AlinaNaimova@github.com/AlinaNaimova/practical_course.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
