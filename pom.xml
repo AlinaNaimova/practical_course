@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>by.internship</groupId>
-	<artifactId>practical_course</artifactId>
+	<artifactId>alina_naimova_practical_course</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>practical_course</name>
 	<description>Demo project for Spring Boot</description>
